@@ -1,0 +1,11 @@
+{
+  "name": "USDGOLD",
+  "type": "BEP20",
+  "symbol": "USDG",
+  "decimals": 18,
+  "website": "https://usdgdefi.com",
+  "description": "USDGOLD (USDG) is a multichain digital-gold and utility token focused on clear value narrative, transparent tokenomics and gradual rollout of utilities across major EVM networks.",
+  "explorer": "https://bscscan.com/token/0x0Caf8956cd1a219Cc4e56005593F80f221B5E666",
+  "status": "active",
+  "id": "0x0Caf8956cd1a219Cc4e56005593F80f221B5E666"
+}
