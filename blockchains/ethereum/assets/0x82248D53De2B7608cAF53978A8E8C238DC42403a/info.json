@@ -7,19 +7,15 @@
   "website": "https://usdgdefi.com",
   "explorer": "https://etherscan.io/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a",
   "status": "active",
-  "id": "usdg",
+  "id": "0x82248D53De2B7608cAF53978A8E8C238DC42403a",
   "links": [
     {
-      "name": "website",
-      "url": "https://usdgdefi.com"
+      "name": "github",
+      "url": "https://github.com/usdgoldmem"
     },
     {
       "name": "telegram",
       "url": "https://t.me/usdggold"
-    },
-    {
-      "name": "github",
-      "url": "https://github.com/usdgoldmem"
     }
   ],
   "tags": [
