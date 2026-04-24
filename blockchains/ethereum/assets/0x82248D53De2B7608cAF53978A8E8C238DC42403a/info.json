@@ -1,0 +1,11 @@
+{
+  "name": "USDG Gold",
+  "symbol": "USDG",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Decentralized multi-chain asset. Not a honeypot. Verified trading activity.",
+  "website": "https://usdgdefi.com/",
+  "explorer": "https://etherscan.io/address/0x82248D53De2B7608cAF53978A8E8C238DC42403a",
+  "status": "active",
+  "id": "usdg"
+}
